@@ -14,4 +14,6 @@ npx react-native link
 ```
 
 * Kaynak
+```
 https://github.com/react-native-image-picker/react-native-image-picker
+```
