@@ -1,5 +1,7 @@
 # react-native-image-picker-kullanımı
 
+* ## Örnekte kütüphanin son sürüm kodunu içermektedir. İlk sürümlerinde farklı metot isimlendirmesi vardır.
+
  * kütüphane kurulumu
 ```
 npm install react-native-image-picker --save
