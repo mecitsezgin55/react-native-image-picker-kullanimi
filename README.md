@@ -12,3 +12,6 @@ npx react-native link
 ```
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
+
+* Kaynak
+https://github.com/react-native-image-picker/react-native-image-picker
